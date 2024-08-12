@@ -1,0 +1,16 @@
+{
+    "Answer": "Answer to the user query",
+    "Dashboard": [
+        {
+            "Name": "Name of the visualization",
+            "Type": "LineChart | BarChart | StackedBarChart | PieChart | DonutChart | ScatterPlot | Histogram |",
+            "X-axis label": "Label of the X-axis",
+            "Y-axis label": "Label of the Y-axis",
+            "X-axis data": "Data for the X-axis",
+            "Y-axis data": "Data for the Y-axis",
+            "Labels": "Labels for the data (used in Pie and Donut charts)",
+            "Values": "Values for the data (used in Pie and Donut charts)",
+            "Categories": "Categories for the data (used in Categorical charts like Bar and Stacked Bar charts)"
+        }
+    ]
+}
